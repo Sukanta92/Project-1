@@ -38,7 +38,7 @@ Using MYSQL following tasks were performed:
 3. This table is then joined with the 'design_of_experiment table' and stored as 'result_summary' table.
 
 The code snapshot used to perform these tasks is shown below: \
-![](/images/Image_5.jpeg) \
+![](/images/Image_5.jpg) \
 Finally, the 'result_ummary' table contained following attributes: \
 model_id, trunk_length, trunk_angle, bumper_length, bumper_angle, cd_value 
 
