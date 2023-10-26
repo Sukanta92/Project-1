@@ -29,7 +29,7 @@ For each simulation the Cd average of last 14000 iterations were to be considere
 ![](/images/Image_4.JPG) \
 \
 Similar simulations, which were performed & already present in the server space, were collected itnto the database folder. \
-1000 such CSV files were collected, each having a unique combination of L<sub>T</sub>, &theta;$<sub>T</sub>, L<sub>D</sub> and &theta;$<sub>D</sub>. 
+1000 such CSV files were collected, each having a unique combination of L<sub>T</sub>, &theta;<sub>T</sub>, L<sub>D</sub> and &theta;<sub>D</sub>. 
 
 ## Database Management
 Using MYSQL following tasks were performed: 
@@ -43,4 +43,4 @@ Finally, the 'result_ummary' table contained following attributes: \
 model_id, trunk_length, trunk_angle, bumper_length, bumper_angle, cd_value 
 
 ## Data Analytics
-![](/images/Untitled.ipynb) \
+![](/images/Untitled.ipynb)
