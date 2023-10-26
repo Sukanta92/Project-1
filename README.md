@@ -43,3 +43,4 @@ Finally, the 'result_ummary' table contained following attributes: \
 model_id, trunk_length, trunk_angle, bumper_length, bumper_angle, cd_value 
 
 ## Data Analytics
+![](/images/Untitled.ipynb) \
