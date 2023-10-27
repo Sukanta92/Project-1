@@ -43,5 +43,9 @@ Finally, the 'result_ummary' table contained following attributes: \
 model_id, trunk_length, trunk_angle, bumper_length, bumper_angle, cd_value 
 
 ## Data Analytics
-[Code](https://github.com/Sukanta92/Project-1/blob/2ba9aaef4fef8cd96016aa957106bf102ae8e1a2/images/Untitled.ipynb)
+The ANN (Artificial Neural Network) was built using the python code on Jupyter platform. The detailed description:\
+![](/images/Image_6.JPG) \
+![](/images/Image_7.JPG) \
+
+## Conclusion
 
