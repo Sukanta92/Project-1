@@ -1,8 +1,10 @@
 # Project 1: Aerodynamic design optimization of rear body shapes of a sedan for drag reduction.
 * This is a surrogate tool which uses aerodynamic loadcase datasets to perform predictive analytics for product optimization.
-* Over 1000 datasets were scraped from server & preprocessed.
-* Various machine learning tools applied to perform analysis.
-* Accuracy for all analysis were compared to get the best methodology.
+* Over 1000 datasets were scraped from server & preprocessed using MYSQL.
+* ANN (Artificial Neural Network) was built & the model was used to perform data analysis.
+* With an accuracy of 91%, the model was used for the design optimization.
+* Through the design optimization, 10% improvement in aerodyanamic drag was obtained.
+* Finally the corresponding design variables were incorporated in the product to validate the improvement.
 
 ## Background
 Aerodynamic drag is the resistance offered by incoming air flow over an object under motion. Formula to equate this resistive force: \
